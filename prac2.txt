@@ -1,0 +1,26 @@
+Aim: Perform Data acquisition using USB Write Blocker + FTK Imager 
+
+Step 1: Open Registry Editor: 
+Press Win + R, type regedit, and hit Enter 
+
+Step 2: Locate HKEY_LOCAL_MACHINE 
+
+Step 3: Expand HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Control. 
+Right click on Control and click on New and create a Key. 
+
+Step 4: Name the Key -> StorageDevicePolicies
+
+Step 5: Right Click on StorageDevicePolicies -> New -> DWORD (32-bit) Value 
+
+Step 6: Name the DWORD -> WriteProtect
+
+Step 7: Right click on WriteProtect and set The Value data to 1 
+
+Step 8: Now try copying, cutting or deleting items from the pendrive and the disk is write
+protected warning will come. 
+
+Step 9: Now again navigate to WriteProtect DWORD and right click to set Value Data to 0 to 
+allow adding, removing and updating files in pendrive 
+
+Step 10: After changing the value the files can be adding, removing and updating inside the 
+pendrive

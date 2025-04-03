@@ -1,0 +1,40 @@
+Aim: Creating a Forensic Image using FTK Imager/EnCase Imager: 
+
+1. Creating Forensic Image. 
+2. Check Integrity of data- Analyse Forensic Image. 
+3. Creating Forensic Image. 
+
+
+Step1: Launch the FTK Imager Software 
+Open FTK Imager, go to the File menu, and select Create Disk Image. 
+
+Step2: Choose Physical Drive 
+Opt for the Physical Drive option and click Next. 
+
+Step3: Select the Drive 
+Pick the drive you wish to image and click Finish.
+
+Step4: Add Image Type 
+Click the Add button. 
+
+Step5: Select Raw (dd) Format 
+Choose the Raw (dd) option and proceed by clicking Next. 
+
+Step6: Input Case Information 
+Enter the required details in the fields provided, then click Next.
+
+Step7: Specify Destination 
+Select the location where the image file should be saved. 
+
+Step8: Start Imaging Process 
+Click Start, and the imaging progress will be displayed in a new window.
+
+Step9: Verify Data Integrity 
+Once the imaging process is complete, a window will confirm the integrity of the data. 
+
+Step10: Locate the Image File 
+Check the specified directory to verify that the image file has been created successfully. 
+
+Step11: View Image Summary  
+You can review the image summary by clicking the Summary button after the progress bar in 
+Step 8 is completed

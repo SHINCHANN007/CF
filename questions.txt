@@ -1,0 +1,118 @@
+
+Prac 1- Making image file (requires PD) FTK Images software
+Prac 2 - Write blocking PD (requires PD) normal windows
+Prac 3 - Analyzing image file (requires image file) requires Autopsy
+Prac 4 - Analyze network packets using wirehsark requires wireshark
+Prac 5 - Analyze network packet - 2 requires wireshark also requires opening snopes file in wireshark
+Prac 6 - Using sysinternal tools - (PROCMON,TCPVIEW,RAMMap, VMMap, Cacheset) - these are tools of sysinternal
+Prac 7 - Recovering and inspecting deleted files ( requires creating an image file using FTK Imager and recovering delete files using Forensic toolkit (ftk181))
+Prac 8 - Mobile tools (will not come)
+Prac 9 - Email Forensic (using Forensic toolkit (ftk181)) - also requires jim_shu.pst file
+Prac 10 -Web Browser Forensic (requires Web Browser History Examiner)
+
+
+
+
+
+
+
+Prac-1
+
+(FTK)
+
+Aim: Creating a Forensic Image using FTK Imager/EnCase Imager: 
+
+1. Creating Forensic Image. 
+2. Check Integrity of data- Analyse Forensic Image. 
+3. Creating Forensic Image
+
+
+--------------------------------------------------
+
+Prac-2
+(Registry Editor)
+Aim: Perform Data acquisition using USB Write Blocker + FTK Imager
+
+
+--------------------------------------------------
+Prac-3
+( Autopsy )
+
+Aim: Forensic Case Study: Solve the Case Study (image file) provide in lab using Autopsy. 
+
+
+--------------------------------------------------
+
+Prac-4
+
+(WireShark)
+Aim: Capturing and analysing network packets using Wireshark (Fundamentals) --
+
+Identification the live network  
+Capture Packets  
+Analyse the captured packets. 
+
+
+
+--------------------------------------------------
+Prac-5
+(WireShark)
+Aim: Analyse the packets provided in lab and solve the questions using Wireshark: 
+ What web server software is used by www.snopes.com?  
+ About what cell phone problem is the client concerned?  
+ According to Zillow, what instrument will Ryan learn to play?  
+ How many web servers are running Apache?  
+ What hosts (IP addresses) think that jokes are more entertaining when they are 
+explained? 
+
+
+--------------------------------------------------
+
+Prac-6
+
+AIM: Using Sysinternals tools for Network Tracking and Process Monitoring:   
+- Check Sysinternals tools   
+- Monitor Live Processes   (TOOL:-PROCMON)
+- Capture RAM   
+- Capture TCP/UDP packets   (TOOL:-Tcpview)
+- Monitor Hard Disk   (TOOL:-RAMMap)
+- Monitor Virtual Memory    (TOOL:-VMMap)
+- Monitor Cache Memory  (TOOL:-Cacheset)
+
+
+--------------------------------------------------
+Prac-7
+
+Aim: Recovering and Inspecting deleted files
+
+
+--------------------------------------------------
+
+Prac-8
+
+
+
+
+--------------------------------------------------
+Prac-9
+
+(  Forensic Toolkit )
+jimshu
+
+Aim: Email Forensics 
+
+
+--------------------------------------------------
+
+Prac-10
+
+( BrowserHistoryExaminer )
+
+Aim: Web Browser Forensics 
+Web Browser working 
+Forensic activities on browser 
+Cache / Cookies analysis 
+Last Internet activity 
+
+
+--------------------------------------------------

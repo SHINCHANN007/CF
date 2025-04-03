@@ -1,0 +1,33 @@
+Aim: Forensic Case Study: Solve the Case Study (image file) provide in lab using Autopsy. 
+
+Step 1: Open Autopsy and then click on “New Case”.
+
+Step 2: Fill the case Information. Click on Next
+
+Step3: Fill the Optional information. Click on Finish 
+
+Step 4: Select Host and Click Next.
+
+Step 5: Select the Data Source as Disk Image and select next.
+
+Step 6: Select Data Source and click next
+
+Step 7: Select all check boxes in Configure Ingest
+
+Step 8: Add Data Source and click Finish 
+
+Step 9: Right click and extract files
+
+Step 10: The file will be extracted in its location 
+
+Step 11: Click on Test and Generate Report. 
+
+Step 12: Generate Report as Excel Report.
+
+Step 13: Click Check All
+
+Step 14: Configure Report and select All Reports. 
+
+Step 15: After Report Generation finishes click close.
+
+Step 16: Result are as follows

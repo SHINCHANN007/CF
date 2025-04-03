@@ -1,0 +1,30 @@
+AIM: Mobile Forensics
+⦁	Download required files 
+⦁	MOBILedit! Forensic Software 
+⦁	Open MOBILEdit Forensic (Should be Activated/Cracked)
+
+Step1: Connect your Device 
+⦁	Enable Developer Option on Android Device 
+⦁	Enable USB Debugging and Connect with (Desktop/Laptop) using USB Cable
+
+Step2: Select Import Data and choose an option like Specific Selection, Full Content, Application Analysis, or others based on your needs
+
+Step 3: Apply filters like time, contact, text, or location to refine the imported data or choose no filtering to retrieve all data.
+
+Step 4: Select the data categories you want to extract, like Emails, GPS locations, or Bluetooth pairings.
+
+Step 5: Sort and filter contacts (SIM, application, vCard, or deleted) by name, creation time, or frequency, and refine using time or specific contacts.
+
+Step 6: Sort and filter application and deleted emails by time, contact, type, or content, and refine using specific criteria.
+
+Step 7: Enable locations and passwords; for locations, sort by time or proximity with latitude and longitude, order ascending/descending, and filter by coordinates or distance, select passwords and long passwords.
+
+Step 8: Fill in the "Specify report details" form with both case and device information, including labels, evidence numbers, notes, and owner details, then click Next.
+
+Step 9: Choose the desired output formats (e.g., PDF report), select report packing and paper format options, and click Next.
+
+Step 10: Specify the export name and destination folder, then click 'Export' to save the data.
+
+Step 11: Start the export process by clicking Export and observe the progress bar as the software collects data from the selected device.
+
+Step 12: Open the generated forensic report to review detailed case and device information.

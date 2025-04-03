@@ -1,0 +1,25 @@
+Aim: Web Browser Forensics 
+
+( BrowserHistoryExaminer )
+
+Web Browser working 
+Forensic activities on browser 
+Cache / Cookies analysis 
+Last Internet activity 
+
+Step 1: Open Web Browser History Examiner. File -> Capture History
+
+Step 2: Select “Capture History from this computer” and click Next.
+
+Step 3: Select user profile as admin and check the checkboxes of the data you want. Select 
+the destination folder and click next. 
+
+Step 4: After the processing is completed click on yes to load the captured data.
+
+Step 5: The loaded data is categorized in different tabs.
+
+Step 6: Click on File -> Export -> Export to HTML
+
+Step 7: Select the data to export. Click Export 
+
+Step 8: The extracted file would be displayed in the destination folder
